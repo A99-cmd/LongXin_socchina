@@ -1,1 +1,1 @@
-# LongXin_socchina
+# 龙芯
